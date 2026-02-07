@@ -8,3 +8,9 @@ sudo apt install prometheus
 ```
 `prometheus.yml`
 
+### Bullet list
+```md
+- Prometheus
+- Grafana
+- Node Exporter
+
