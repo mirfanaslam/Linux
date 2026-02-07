@@ -6,4 +6,5 @@ Linux Interview Questions.pdf
 sudo apt update
 sudo apt install prometheus
 ```
+`prometheus.yml`
 
